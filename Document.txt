@@ -1,2 +1,3 @@
 I will change this doc
 Now I added a new line of text
+More text
